@@ -2992,7 +2992,7 @@ body {
 .cid-qD22WsFUy8 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #3e4c63;
+  background-color: #149dcc;
 }
 .cid-qD22WsFUy8 .counter-container {
   color: #767676;
@@ -3016,14 +3016,14 @@ body {
   line-height: 20px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #232323;
   width: 25px;
   height: 25px;
   border-radius: 50%;
   content: '✓';
 }
 .cid-qD22WsFUy8 .mbr-text UL {
-  color: #149dcc;
+  color: #232323;
 }
 .cid-qD1WuuQ0MQ .navbar {
   background: #149dcc;
@@ -3865,8 +3865,7 @@ body {
 .cid-qDfLHLFYqS {
   padding-top: 105px;
   padding-bottom: 0px;
-  background: #ffffff;
-  background: linear-gradient(45deg, #ffffff, #149dcc);
+  background: #149dcc;
 }
 .cid-qDfLHLFYqS .image-block {
   margin: auto;
@@ -3887,7 +3886,7 @@ body {
 .cid-qDfLj1aZCN {
   padding-top: 15px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #ffffff, #149dcc);
+  background: linear-gradient(45deg, #149dcc, #149dcc);
 }
 .cid-qDfLj1aZCN .btn {
   margin: 0 0 .5rem 0;
@@ -4288,8 +4287,8 @@ body {
 .cid-qD2gIUfeRP {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: #ffffff;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #149dcc);
 }
 .cid-qD2gIUfeRP .image-block {
   margin: auto;
