@@ -1753,7 +1753,7 @@ body {
   color: #767676 !important;
 }
 .cid-qDfOHOsibc {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 45px;
   background-image: url("../../../assets/images/achtergrond-1-1024x680.jpg");
 }
@@ -3895,6 +3895,9 @@ body {
   color: #232323;
   text-align: center;
 }
+.cid-qDfLj1aZCN H3 {
+  text-align: center;
+}
 .cid-qD1WuuQ0MQ .navbar {
   background: #149dcc;
   transition: none;
@@ -4934,7 +4937,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #149dcc;
 }
 .cid-qD1WuuQ0MQ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
